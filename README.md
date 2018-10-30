@@ -48,7 +48,7 @@ Package: python-dateutil
 
 * 4. NETIFACES
 Package: python-netifaces
-Version: 0.10.4-0.1build2
+/ Version: 0.10.4-0.1build2
 
 * 5. IPADDR
 Package: python-ipaddr
@@ -89,7 +89,7 @@ Run the file
 * You can do an installation automatically by running the file 'INSTALL.sh'. But if you want to install manually just follow the steps below
 
 * 1 . INSTALL PYTHON IDLE
-Package: idle-python2.7
+  Package: idle-python2.7
 `$sudo apt install idle-python2.7`
 
 * 2 . INSTALE PIP
