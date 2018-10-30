@@ -1,6 +1,6 @@
 
 **************************************************************************************************
-All steps have been successfully tested using GNU / Linux Ubuntu 18.04.1 LTS  KERNEL  4.17.0-19.2
+All steps have been successfully tested using GNU / Linux Ubuntu 18.10 cosmic  KERNEL  4.18.0-10
 **************************************************************************************************
 1.INSTALL PYTHON IDLE
 Package: idle-python2.7
