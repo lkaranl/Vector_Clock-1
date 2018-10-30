@@ -10,11 +10,11 @@ People use physical time to order events. For example, we say that an event at 8
 Its purpose is the synchronization of logical clocks of computers connected to the same network.
 
 # Methodology
-OS: Ubuntu 18.10 cosmic
-Kernel: x86_64 Linux 4.18.0-10-generic
-CPU: Intel Core i7 Q 740 @ 8x 1.734GHz
-GPU: GeForce GT 425M
-RAM: 7956MiB
+* OS: Ubuntu 18.10 cosmic
+* Kernel: x86_64 Linux 4.18.0-10-generic
+* CPU: Intel Core i7 Q 740 @ 8x 1.734GHz
+* GPU: GeForce GT 425M
+* RAM: 7956MiB
 
 # Prerequisites
 * Pyhton2.7
