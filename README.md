@@ -59,8 +59,8 @@ Package: libpng12-0
 Version: 1.2.54-1ubuntu1.1
 
 * 7. LIBTIFF
-- Package: libtiff4
-Version: 3.9.6-11+deb7u11
+ Package: libtiff4
+ Version: 3.9.6-11+deb7u11
 
 * 8. LIBWXBASE
 Package: libwxbase2.8-0
