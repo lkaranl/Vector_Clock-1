@@ -36,15 +36,15 @@ The version may not necessarily be the same, but these versions have been tested
 
 * 1. PYTHON IDLE
 Package: idle-python2.7
-Version: 2.7.12-1ubuntu0~16.04.3
+/ Version: 2.7.12-1ubuntu0~16.04.3
 
 * 2. PIP
 Package: python-pip
-Version: 8.1.1-2ubuntu0.4 
+/Version: 8.1.1-2ubuntu0.4 
 
 * 3. DATEUTIL
 Package: python-dateutil
-Version: 2.4.2-1
+/Version: 2.4.2-1
 
 * 4. NETIFACES
 Package: python-netifaces
