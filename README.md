@@ -40,11 +40,11 @@ Package: idle-python2.7
 
 * 2. PIP
 Package: python-pip
-/Version: 8.1.1-2ubuntu0.4 
+/ Version: 8.1.1-2ubuntu0.4 
 
 * 3. DATEUTIL
 Package: python-dateutil
-/Version: 2.4.2-1
+/ Version: 2.4.2-1
 
 * 4. NETIFACES
 Package: python-netifaces
@@ -52,27 +52,27 @@ Version: 0.10.4-0.1build2
 
 * 5. IPADDR
 Package: python-ipaddr
-Version: 2.1.11-2
+/ Version: 2.1.11-2
 
 * 6. LIBPNG
 Package: libpng12-0
-Version: 1.2.54-1ubuntu1.1
+/ Version: 1.2.54-1ubuntu1.1
 
 * 7. LIBTIFF
- Package: libtiff4
- Version: 3.9.6-11+deb7u11
+Package: libtiff4
+/ Version: 3.9.6-11+deb7u11
 
 * 8. LIBWXBASE
 Package: libwxbase2.8-0
-Version: 2.8.12.1-12
+/ Version: 2.8.12.1-12
 
 * 9. LIBWXGTK
 Package: libwxgtk2.8-0
-Version: 2.8.12.1-12
+/ Version: 2.8.12.1-12
 
 * 10. XWPYTHON
 Package: python-wxgtk2.8
-Version: 2.8.12.1-12
+/ Version: 2.8.12.1-12
 
 ***********************************************************************************************
 # How to install
@@ -88,66 +88,56 @@ Run the file
 ***********************************************************************************************
 * You can do an installation automatically by running the file 'INSTALL.sh'. But if you want to install manually just follow the steps below
 
-1 . INSTALL PYTHON IDLE
+* 1 . INSTALL PYTHON IDLE
 Package: idle-python2.7
-Version: 2.7.12-1ubuntu0~16.04.3
 `$sudo apt install idle-python2.7`
 
-2 . INSTALE PIP
-Package: python-pip
-Version: 8.1.1-2ubuntu0.4 
+* 2 . INSTALE PIP
+Package: python-pip 
 `$sudo apt install python-pip`
 
-3 . INSTALL DATEUTIL (PIP)
+* 3 . INSTALL DATEUTIL (PIP)
 Package: python-dateutil
-Version: 2.4.2-1
 `$sudo pip install python-dateutil`
 
-4 . INSTALL NETIFACES (PIP)
+* 4 . INSTALL NETIFACES (PIP)
 Package: python-netifaces
-Version: 0.10.4-0.1build2
 `$sudo pip install netifaces`
 
-5 . INSTALL IPADDR
+* 5 . INSTALL IPADDR
 Package: python-ipaddr
-Version: 2.1.11-2
-$sudo apt install python-ipaddr`
+`$sudo apt install python-ipaddr`
 
-6 . DOWNLOAD LIBPNG
+* 6 . DOWNLOAD LIBPNG
 Package: libpng12-0
-Version: 1.2.54-1ubuntu1.1
 `$sudo wget http://ftp.us.debian.org/debian/pool/main/libp/libpng/libpng12-0_1.2.49-1+deb7u2_amd64.deb`
-6 . 1 .INSTALL LIBPNG
+* 6 . 1 .INSTALL LIBPNG
 `$sudo dpkg -i libpng12-0_1.2.49-1+deb7u2_amd64.deb`
 
-7 . DOWNLOAD LIBTIFF
+* 7 . DOWNLOAD LIBTIFF
 Package: libtiff4
-Version: 3.9.6-11+deb7u11
 `$sudo wget http://security.debian.org/debian-security/pool/updates/main/t/tiff3/libtiff4_3.9.6-11+deb7u11_amd64.deb`
-7 . 1INSTALL LIBTIFF
+* 7 . 1INSTALL LIBTIFF
 `$sudo dpkg -i libtiff4_3.9.6-11+deb7u11_amd64.deb`
 
-8 . DOWNLOAD LIBWXBASE
+* 8 . DOWNLOAD LIBWXBASE
 Package: libwxbase2.8-0
-Version: 2.8.12.1-12
 `$sudo wget http://ftp.us.debian.org/debian/pool/main/w/wxwidgets2.8/libwxbase2.8-0_2.8.12.1-12_amd64.deb`
-8 . 1 . INSTALL LIBWXBASE
+* 8 . 1 . INSTALL LIBWXBASE
 `$sudo dpkg -i libwxbase2.8-0_2.8.12.1-12_amd64.deb`
 
-9 . DOWNLOAD LIBWXGTK
+* 9 . DOWNLOAD LIBWXGTK
 Package: libwxgtk2.8-0
-Version: 2.8.12.1-12
 `$sudo wget http://ftp.us.debian.org/debian/pool/main/w/wxwidgets2.8/libwxgtk2.8-0_2.8.12.1-12_amd64.deb`
-9 . 1 . INSTALL LIBWXGTK
+* 9 . 1 . INSTALL LIBWXGTK
 `$sudo dpkg -i libwxgtk2.8-0_2.8.12.1-12_amd64.deb`
 
-10 . DOWLOAD XWPYTHON
+* 10 . DOWLOAD XWPYTHON
 Package: python-wxgtk2.8
-Version: 2.8.12.1-12
 `$sudo wget http://ftp.us.debian.org/debian/pool/main/w/wxwidgets2.8/python-wxgtk2.8_2.8.12.1-12_amd64.deb`
-10 . 1 . INSTALL ALL DEPENDENCIES MISSING
+* 10 . 1 . INSTALL ALL DEPENDENCIES MISSING
 `$sudo apt-get install -f`
-10 . 2 . INSTALL XWPYTHON
+* 10 . 2 . INSTALL XWPYTHON
 `$sudo dpkg -i python-wxgtk2.8_2.8.12.1-12_amd64.deb`
 
 ***********************************************************************************************
