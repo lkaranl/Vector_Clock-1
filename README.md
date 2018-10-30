@@ -25,7 +25,7 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 * Python-WXgtk2.8
 
 # What do you need to use the software?
-* You will need a GNU/Linux operating system Ubuntu 18.04.1 cosmic /  KERNEL x86_64 Linux 4.18.0-10-generic or Debian 9.5 Stretch / KERNEL x86_64 Linux 4.9.0-8-amd64. 
+* You will need a GNU/Linux Ubuntu 18.04.1 cosmic /  KERNEL x86_64 Linux 4.18.0-10-generic or Debian 9.5 Stretch / KERNEL x86_64 Linux 4.9.0-8-amd64. 
 * Internet connection for download.
 * OBS: Software does not work on 32 bits systems
 
