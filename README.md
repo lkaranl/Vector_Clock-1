@@ -57,5 +57,5 @@ I do not know
 Yes, it can be used in full according to the proposal.
 
 ***********************************************************************************************
-# Please see session ISSUES for more information
+# Please see session ISSUES for more information.
 ***********************************************************************************************
