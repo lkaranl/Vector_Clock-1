@@ -25,14 +25,10 @@ Probably the software will also work on any other Debian-based distribution, but
 
 
 # How to install
-
 * You can do an installation automatically by running the file 'INSTALL.sh'.
 
 # Why the development?
 It was developed by Professor Diogenes on the campus of UNEMAT BBG - MT in order to ... and being under my responsibility the documentation and implementation of the project in GitHub
-
-# Is this the only system of sync?
-I do not know
 
 # Is this system 100% complete?
 Yes, it can be used in full according to the proposal.
