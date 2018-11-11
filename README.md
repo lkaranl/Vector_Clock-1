@@ -96,51 +96,41 @@ Once the installations are finished you can delete the downloaded .deb files.
 
 
 1 . INSTALL PYTHON IDLE<br/>
-Package: idle-python2.7<br/>
 `$sudo apt install idle-python2.7`<br/>
 
 2 . INSTALE PIP<br/>
-Package: python-pip <br/>
 `$sudo apt install python-pip`<br/>
 
 3 . INSTALL DATEUTIL (PIP)<br/>
-Package: python-dateutil<br/>
 `$sudo pip install python-dateutil`<br/>
 
 4 . INSTALL NETIFACES (PIP)<br/>
-Package: python-netifaces<br/>
 `$sudo pip install netifaces`<br/>
 
 5 . INSTALL IPADDR<br/>
-Package: python-ipaddr<br/>
 `$sudo apt install python-ipaddr`<br/>
 
 6 . DOWNLOAD LIBPNG<br/>
-Package: libpng12-0<br/>
 `$sudo wget http://ftp.us.debian.org/debian/pool/main/libp/libpng/libpng12-0_1.2.49-1+deb7u2_amd64.deb`<br/>
 6 . 1 .INSTALL LIBPNG<br/>
 `$sudo dpkg -i libpng12-0_1.2.49-1+deb7u2_amd64.deb`<br/>
 
 7 . DOWNLOAD LIBTIFF<br/>
-Package: libtiff4<br/>
 `$sudo wget http://security.debian.org/debian-security/pool/updates/main/t/tiff3/libtiff4_3.9.6-11+deb7u11_amd64.deb`<br/>
 7 . 1INSTALL LIBTIFF<br/>
 `$sudo dpkg -i libtiff4_3.9.6-11+deb7u11_amd64.deb`<br/>
 
 8 . DOWNLOAD LIBWXBASE<br/>
-Package: libwxbase2.8-0<br/>
 `$sudo wget http://ftp.us.debian.org/debian/pool/main/w/wxwidgets2.8/libwxbase2.8-0_2.8.12.1-12_amd64.deb`<br/>
 8 . 1 . INSTALL LIBWXBASE<br/>
 `$sudo dpkg -i libwxbase2.8-0_2.8.12.1-12_amd64.deb`<br/>
 
 9 . DOWNLOAD LIBWXGTK<br/>
-Package: libwxgtk2.8-0<br/>
 `$sudo wget http://ftp.us.debian.org/debian/pool/main/w/wxwidgets2.8/libwxgtk2.8-0_2.8.12.1-12_amd64.deb`<br/>
 9 . 1 . INSTALL LIBWXGTK<br/>
 `$sudo dpkg -i libwxgtk2.8-0_2.8.12.1-12_amd64.deb`<br/>
 
 10 . DOWLOAD XWPYTHON<br/>
-Package: python-wxgtk2.8<br/>
 `$sudo wget http://ftp.us.debian.org/debian/pool/main/w/wxwidgets2.8/python-wxgtk2.8_2.8.12.1-12_amd64.deb`<br/>
 10 . 1 . INSTALL ALL DEPENDENCIES MISSING<br/>
 `$sudo apt-get install -f`<br/>
