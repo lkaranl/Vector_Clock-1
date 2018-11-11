@@ -1,3 +1,4 @@
+<html>
 <head>
 # Vector_Clock
 Code in Python to Synchronize the computer clock using the Lamport method.
@@ -6,6 +7,7 @@ People use physical time to order events. For example, we say that an event at 8
 
 ![animacao](https://user-images.githubusercontent.com/32453979/47199699-d9c90e00-d340-11e8-94b7-6b609d44561e.gif)
 
+</head>
 
 # What are the Possible Applications?
 Its purpose is the synchronization of logical clocks of computers connected to the same network.
@@ -210,3 +212,4 @@ Manual: Send a message each time you click on it
 
 
 ***********************************************************************************************
+</html>
