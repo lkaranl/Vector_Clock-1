@@ -1,10 +1,11 @@
 <head>
-<title> # Vector_Clock </title>
+# Vector_Clock
 Code in Python to Synchronize the computer clock using the Lamport method.
 
 People use physical time to order events. For example, we say that an event at 8:15 AM occurs before an event at 8:16 AM. In distributed systems, physical clocks are not always precise, so we can't rely on physical time to order events. Instead, we can use logical clocks to create a partial or total ordering of events. This article explores the concept of and an implementation of the logical clocks invented by Leslie Lamport in his seminal paper Time, Clocks, and the Ordering of Events in a Distributed System.
+
 ![animacao](https://user-images.githubusercontent.com/32453979/47199699-d9c90e00-d340-11e8-94b7-6b609d44561e.gif)
-</head>
+
 
 # What are the Possible Applications?
 Its purpose is the synchronization of logical clocks of computers connected to the same network.
@@ -34,17 +35,17 @@ Probably the software will also work on any other Debian-based distribution, but
 These are the necessary packages and modules.
 The version may not necessarily be the same, but these versions have been tested and confirmed the operation.
 
-* 1. PYTHON IDLE <br />
-Package: idle-python2.7 <br />
-Version: 2.7.12-1ubuntu0~16.04.3 <br />
+* 1. PYTHON IDLE <br/>
+Package: idle-python2.7 <br/>
+Version: 2.7.12-1ubuntu0~16.04.3 <br/>
 
-* 2. PIP
-Package: python-pip
-Version: 8.1.1-2ubuntu0.4 
+* 2. PIP<br/>
+Package: python-pip<br/>
+Version: 8.1.1-2ubuntu0.4 <br/>
 
-* 3. DATEUTIL
-Package: python-dateutil
-Version: 2.4.2-1
+* 3. DATEUTIL<br/>
+Package: python-dateutil<br/>
+Version: 2.4.2-1<br/>
 
 * 4. NETIFACES
 Package: python-netifaces
