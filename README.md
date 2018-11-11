@@ -171,9 +171,9 @@ Edit the file 'sudoers'<br/>
 
 #User privilege specification<br/>
 root ALL=(ALL:ALL) ALL<br/>
-yoursername ALL=(ALL:ALL) ALL <br/>
-#The top line was the one we added. 
-#Replace 'yoursername' with the name of your user who wants to have root permission
+yoursername ALL=(ALL:ALL) ALL <br/><br/>
+#The top line was the one we added. <br/>
+#Replace 'yoursername' with the name of your user who wants to have root permission<br/>
 `#exit`
 ***********************************************************************************************
 
