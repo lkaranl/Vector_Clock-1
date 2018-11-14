@@ -170,8 +170,10 @@ Edit the file 'sudoers'<br/>
 `#nano /etc/sudoers`<br/>
 
 #User privilege specification<br/>
+```shellcript
 root ALL=(ALL:ALL) ALL<br/>
-yoursername ALL=(ALL:ALL) ALL <br/><br/>
+"yoursername" ALL=(ALL:ALL) ALL <br/><br/>
+```
 #The top line was the one we added. <br/>
 #Replace 'yoursername' with the name of your user who wants to have root permission<br/>
 `#exit`
