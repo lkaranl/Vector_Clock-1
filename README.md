@@ -5,6 +5,11 @@ Code in Python to Synchronize the computer clock using the Lamport method.
 People use physical time to order events. For example, we say that an event at 8:15 AM occurs before an event at 8:16 AM. In distributed systems, physical clocks are not always precise, so we can't rely on physical time to order events. Instead, we can use logical clocks to create a partial or total ordering of events. This article explores the concept of and an implementation of the logical clocks invented by Leslie Lamport in his seminal paper Time, Clocks, and the Ordering of Events in a Distributed System.
 
 ![animacao](https://user-images.githubusercontent.com/32453979/47199699-d9c90e00-d340-11e8-94b7-6b609d44561e.gif)
+<\br>
+1. [How to install](#how-to-install)
+1. [Possibles erros](#possibles-erros)
+1. [How to use](#how-to-use)
+
 
 </head>
 
@@ -26,9 +31,6 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 * Python-Ipaddr
 * Python-WXgtk2.8
 
-1. [How to install](#how-to-install)
-1. [Possibles erros](#possibles-erros)
-1. [How to use](#how-to-use)
 
 # What do you need to use the software?
 * You will need a GNU/Linux Ubuntu 18.04.1 cosmic /  KERNEL x86_64 Linux 4.18.0-10-generic or Debian 9.5 Stretch / KERNEL x86_64 Linux 4.9.0-8-amd64. 
