@@ -199,5 +199,8 @@ Manual: Send a message each time you click on it<br/>
 ![animacao](https://user-images.githubusercontent.com/32777186/47819566-48d73700-dd31-11e8-87e7-d1913935d83b.gif)
 
 
+**[⬆ back to top](#table-of-contents)**
+
+
 
 ***********************************************************************************************
