@@ -10,9 +10,9 @@ People use physical time to order events. For example, we say that an event at 8
 1. [Methodology.](#methodology)
 1. [Prerequisites.](#prerequisites)
 1. [What do you need to use this software?](#what-do-you-need-to-use-the-software?)
-1. [How to install?](#how-to-install)
-1. [Possibles erros.](#possibles-erros)
-1. [How to use?](#how-to-use)
+1. [How to install it?](#how-to-install)
+1. [Possibles errors.](#possibles-errors)
+1. [How to use it?](#how-to-use)
 
 
 </head>
@@ -20,14 +20,14 @@ People use physical time to order events. For example, we say that an event at 8
 # What are the Possible Applications?
 Its purpose is the synchronization of logical clocks of computers connected to the same network.
 
-# Methodology
+# Methodology.
 * OS: Ubuntu 18.10 cosmic
 * Kernel: x86_64 Linux 4.18.0-10-generic
 * CPU: Intel Core i7 Q 740 @ 8x 1.734GHz
 * GPU: GeForce GT 425M
 * RAM: 7956MiB
 
-# Prerequisites
+# Prerequisites.
 * Pyhton2.7
 * Idle-Python2.7
 * Python-Dateutil
@@ -87,7 +87,7 @@ Package: python-wxgtk2.8<br/>
 Version: 2.8.12.1-12<br/>
 
 ***********************************************************************************************
-# How to install
+# How to install it?
 
 Give permission to file INSTALL.sh<br/>
 `$sudo chmod +x INSTALL.sh`
@@ -148,7 +148,7 @@ Once the installations are finished you can delete the downloaded .deb files.
 `$sudo dpkg -i python-wxgtk2.8_2.8.12.1-12_amd64.deb`<br/>
 
 ***********************************************************************************************
-# Possibles errors
+# Possibles errors.
 
 * If any module for unknown reasons has not been installed
 
@@ -179,7 +179,7 @@ root ALL=(ALL:ALL) ALL<br/>
 `#exit`
 ***********************************************************************************************
 
-# How to use
+# How to use it?
 
 *  IMPORTANT: For the hours to change you must have root permission or be the root user.
 
