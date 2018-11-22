@@ -37,12 +37,12 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 
 
 # What do you need to use this software?
-* You will need a GNU/Linux Ubuntu 18.04.1 cosmic /  KERNEL x86_64 Linux 4.18.0-10-generic or Debian 9.5 Stretch / KERNEL x86_64 Linux 4.9.0-8-amd64. 
+* You will need a GNU/Linux Ubuntu 18.04.1 cosmic or Debian 9.5 Stretch 
 * Internet connection for download.
-* OBS: Software does not work on 32 bits systems.
 
 Probably the software will also work on any other Debian-based distribution, but it has only been tested on the systems listed above.
 
+* For x86_64
 These are the necessary packages and modules.
 The version may not necessarily be the same, but these versions have been tested and confirmed the operation.
 
@@ -85,6 +85,66 @@ Version: 2.8.12.1-12<br/>
 * 10. XWPYTHON<br/>
 Package: python-wxgtk2.8<br/>
 Version: 2.8.12.1-12<br/>
+***********************************************************************************************
+
+* For x86
+The version may not necessarily be the same, but these versions have been tested and confirmed the operation.
+
+* 1. PYTHON IDLE <br/>
+Package: idle-python2.7 <br/>
+Version: 2.7.12-1ubuntu0~16.04.3 <br/>
+
+* 2. PIP<br/>
+Package: python-pip<br/>
+Version: 8.1.1-2ubuntu0.4 <br/>
+
+* 3. DATEUTIL<br/>
+Package: python-dateutil<br/>
+Version: 2.4.2-1<br/>
+
+* 4. NETIFACES<br/>
+Package: python-netifaces<br/>
+Version: 0.10.4-0.1build2<br/>
+
+* 5. IPADDR<br/>
+Package: python-ipaddr<br/>
+Version: 2.1.11-2<br/>
+
+* 6. LIBPNG<br/>
+Package: libpng12-0<br/>
+Version: 1.2.54-1ubuntu1.1<br/>
+
+* 7. LIBTIFF<br/>
+Package: libtiff4<br/>
+Version: 3.9.6-11+deb7u11<br/>
+
+* 8. LIBWXBASE<br/>
+Package: libwxbase2.8-0<br/>
+Version: 2.8.12.1-12<br/>
+
+* 9. LIBWXGTK<br/>
+Package: libwxgtk2.8-0<br/>
+Version: 2.8.12.1-12<br/>
+
+* 10. XWPYTHON<br/>
+Package: python-wxgtk2.8<br/>
+Version: 2.8.12.1-12<br/>
+
+* 11. LIBJPEG8<br/>
+Package: libjpeg8<br/>
+Version: 8c-2ubuntu8<br/>
+
+* 12. LIBGSTREAMER<br/>
+Package: libgstreamer0.10-0<br/>
+Version: 0.10.36-1.5ubuntu1<br/>
+
+* 12. LIBGSTREAMER-PLUGIN-BASE<br/>
+Package: libgstreamer-plugins-base0.10-0<br/>
+Version: 0.10.36-2<br/>
+
+* 12. LIBWXGTK-MEDIA<br/>
+Package: libwxgtk-media2.8-0<br/>
+Version: 2.8.12.1+dfsg2-2ubuntu2+1~webupd8~xenial0<br/>
 
 ***********************************************************************************************
 # How to install it?
