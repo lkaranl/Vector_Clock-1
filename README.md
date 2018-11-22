@@ -36,7 +36,7 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 * Python-WXgtk2.8
 
 
-# What do you need to use the software?
+# What do you need to use this software?
 * You will need a GNU/Linux Ubuntu 18.04.1 cosmic /  KERNEL x86_64 Linux 4.18.0-10-generic or Debian 9.5 Stretch / KERNEL x86_64 Linux 4.9.0-8-amd64. 
 * Internet connection for download.
 * OBS: Software does not work on 32 bits systems.
@@ -148,7 +148,7 @@ Once the installations are finished you can delete the downloaded .deb files.
 `$sudo dpkg -i python-wxgtk2.8_2.8.12.1-12_amd64.deb`<br/>
 
 ***********************************************************************************************
-# Possibles erros
+# Possibles errors
 
 * If any module for unknown reasons has not been installed
 
