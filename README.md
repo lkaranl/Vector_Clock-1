@@ -6,18 +6,18 @@ People use physical time to order events. For example, we say that an event at 8
 
 ![animacao](https://user-images.githubusercontent.com/32453979/47199699-d9c90e00-d340-11e8-94b7-6b609d44561e.gif)
 
-1. [What are the Possible Applications?](#what-are-the-possible-applications?)
+1. [What are the Possible Applications](#what-are-the-possible-applications?)
 1. [Methodology.](#methodology)
 1. [Prerequisites.](#prerequisites)
-1. [What do you need to use this software?](#what-do-you-need-to-use-the-software?)
-1. [How to install it?](#how-to-install)
+1. [What do you need to use this software](#what-do-you-need-to-use-the-software?)
+1. [How to install it](#how-to-install)
 1. [Possibles errors.](#possibles-errors)
 1. [How to use it](#how-to-use)
 
 
 </head>
 
-# What are the Possible Applications?
+# What are the Possible Applications
 Its purpose is the synchronization of logical clocks of computers connected to the same network.
 
 ## Methodology.
@@ -39,7 +39,7 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 * Python-WXgtk2.8
 
 
-# What do you need to use this software?
+# What do you need to use this software
 * You will need a GNU/Linux Ubuntu 18.04.1 cosmic or Debian 9.5 Stretch 
 * Internet connection for download.
 
@@ -150,7 +150,7 @@ Package: libwxgtk-media2.8-0<br/>
 Version: 2.8.12.1+dfsg2-2ubuntu2+1-webupd8-xenial0<br/>
 
 ***********************************************************************************************
-# How to install it?
+# How to install it
 
 * For x86_64<br/>
 Give permission to file INSTALL.sh<br/>
@@ -222,7 +222,7 @@ Once the installations are finished you can delete the downloaded .deb files.
 `$sudo dpkg -i python-wxgtk2.8_2.8.12.1-12_amd64.deb`<br/>
 
 ***********************************************************************************************
-# Possibles errors.
+# Possibles errors
 
 * If any module for unknown reasons has not been installed
 
@@ -253,7 +253,7 @@ root ALL=(ALL:ALL) ALL<br/>
 `#exit`
 ***********************************************************************************************
 
-# How to use it?
+# How to use it
 
 *  IMPORTANT: For the hours to change you must have root permission or be the root user.
 
