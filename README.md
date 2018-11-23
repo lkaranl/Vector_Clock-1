@@ -27,6 +27,7 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 * GPU: GeForce GT 425M
 * RAM: 7956MiB
 
+
 # Prerequisites.
 * Pyhton2.7
 * Idle-Python2.7
