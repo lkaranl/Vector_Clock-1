@@ -42,7 +42,7 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 
 Probably the software will also work on any other Debian-based distribution, but it has only been tested on the systems listed above.
 
-* For x86_64
+* For x86_64<br/>
 These are the necessary packages and modules.
 The version may not necessarily be the same, but these versions have been tested and confirmed the operation.
 
@@ -87,7 +87,7 @@ Package: python-wxgtk2.8<br/>
 Version: 2.8.12.1-12<br/>
 ***********************************************************************************************
 
-* For x86
+* For x86<br/>
 The version may not necessarily be the same, but these versions have been tested and confirmed the operation.
 
 * 1. PYTHON IDLE <br/>
@@ -144,7 +144,7 @@ Version: 0.10.36-2<br/>
 
 * 12. LIBWXGTK-MEDIA<br/>
 Package: libwxgtk-media2.8-0<br/>
-Version: 2.8.12.1+dfsg2-2ubuntu2+1~webupd8~xenial0<br/>
+Version: 2.8.12.1+dfsg2-2ubuntu2+1-webupd8-xenial0<br/>
 
 ***********************************************************************************************
 # How to install it?
