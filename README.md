@@ -25,8 +25,8 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 * Kernel: x86_64 Linux 4.18.0-10-generic
 * CPU: Intel Core i7 Q 740 @ 8x 1.734GHz
 * GPU: GeForce GT 425M
-* RAM: 7956MiB <br/>
-* This code was developed on the campus of the State University of Mato Grosso (UNEMAT)
+* RAM: 7956MiB <br/> <br/>
+
 * __Test hardware:__ Intel (R) Pentium 4 (TM) 3.0 GHz, 1 GB RAM, HD 40 GB, 10/100 Fast Ethernet network
 * __Test realize:__ The tests were performed in a _testbed_ with 8 computers in the _Laboratory of Computer Networks (UNEMAT)_, and all the computers of the laboratory were configured in a class A network. In order to synchronize, the software takes into account the time correct at the highest hour. In this way, the clocks of the test machines were manually and randomly delayed.
 
