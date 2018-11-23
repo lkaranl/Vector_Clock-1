@@ -5,7 +5,7 @@ Code in Python to Synchronize the computer clock using the [Lamport](https://en.
 People use physical time to order events. For example, we say that an event at 8:15 AM occurs before an event at 8:16 AM. In distributed systems, physical clocks are not always precise, so we can't rely on physical time to order events. Instead, we can use logical clocks to create a partial or total ordering of events. This article explores the concept of and an implementation of the logical clocks invented by Leslie Lamport in his seminal paper Time, Clocks, and the Ordering of Events in a Distributed System.
 
 ![animacao](https://user-images.githubusercontent.com/32453979/47199699-d9c90e00-d340-11e8-94b7-6b609d44561e.gif)
-<\br>
+
 1. [What are the Possible Applications?](#what-are-the-possible-applications?)
 1. [Methodology.](#methodology)
 1. [Prerequisites.](#prerequisites)
@@ -27,8 +27,8 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 * GPU: GeForce GT 425M
 * RAM: 7956MiB <br/>
 * This code was developed on the campus of the State University of Mato Grosso (UNEMAT)
-* _Test hardware:_ Intel (R) Pentium 4 (TM) 3.0 GHz, 1 GB RAM, HD 40 GB, 10/100 Fast Ethernet network
-
+* __Test hardware:__ Intel (R) Pentium 4 (TM) 3.0 GHz, 1 GB RAM, HD 40 GB, 10/100 Fast Ethernet network
+* __Test realize:__ The tests were performed in a _testbed_ with 8 computers in the _Laboratory of Computer Networks (UNEMAT)_, and all the computers of the laboratory were configured in a class A network. In order to synchronize, the software takes into account the time correct at the highest hour. In this way, the clocks of the test machines were manually and randomly delayed.
 
 # Prerequisites.
 * Pyhton2.7
