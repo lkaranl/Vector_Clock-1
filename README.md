@@ -9,7 +9,7 @@ People use physical time to order events. For example, we say that an event at 8
 1. [What are the Possible Applications?](#what-are-the-possible-applications)
 1. [Methodology.](#methodology)
 1. [Prerequisites.](#prerequisites)
-1. [What do you need to use this software](#what-do-you-need-to-use-the-software)
+1. [What do you need to use this software?](#what-do-you-need-to-use-the-software)
 1. [How to install it?](#how-to-install)
 1. [Possibles errors.](#possibles-errors)
 1. [How to use it?](#How-to-use-it)
@@ -17,7 +17,7 @@ People use physical time to order events. For example, we say that an event at 8
 
 </head>
 
-# What are the Possible Applications
+# What are the Possible Applications?
 Its purpose is the synchronization of logical clocks of computers connected to the same network.
 
 ## Methodology.
@@ -30,7 +30,7 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 * __Test hardware:__ Intel (R) Pentium 4 (TM) 3.0 GHz, 1 GB RAM, HD 40 GB, 10/100 Fast Ethernet network
 * __Test realize:__ The tests were performed in a _testbed_ with 8 computers in the _Laboratory of Computer Networks (UNEMAT)_, and all the computers of the laboratory were configured in a network class A 113.167.9.0/24 . In order to synchronize, the software takes into account the time correct at the highest hour. In this way, the clocks of the test machines were manually and randomly delayed.
 
-# Prerequisites.
+# Prerequisites
 * Pyhton2.7
 * Idle-Python2.7
 * Python-Dateutil
@@ -39,7 +39,7 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 * Python-WXgtk2.8
 
 
-# What do you need to use this software
+# What do you need to use this software?
 * You will need a GNU/Linux Ubuntu 18.04.1 cosmic or Debian 9.5 Stretch 
 * Internet connection for download.
 
@@ -150,7 +150,7 @@ Package: libwxgtk-media2.8-0<br/>
 Version: 2.8.12.1+dfsg2-2ubuntu2+1-webupd8-xenial0<br/>
 
 ***********************************************************************************************
-# How to install it
+# How to install it?
 
 * For x86_64<br/>
 Give permission to file INSTALL.sh<br/>
@@ -253,7 +253,7 @@ root ALL=(ALL:ALL) ALL<br/>
 `#exit`
 ***********************************************************************************************
 
-# How to use it
+# How to use it?
 
 *  IMPORTANT: For the hours to change you must have root permission or be the root user.
 
