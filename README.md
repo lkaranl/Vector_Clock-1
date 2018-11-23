@@ -26,8 +26,8 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 * CPU: Intel Core i7 Q 740 @ 8x 1.734GHz
 * GPU: GeForce GT 425M
 * RAM: 7956MiB
-<br/>
-* This code was developed on the campus of the State University of Mato Grosso (UNEMAT)
+
+### This code was developed on the campus of the State University of Mato Grosso (UNEMAT)
 Test hardware: Intel (R) Pentium 4 (TM) 3.0 GHz, 1 GB RAM, HD 40 GB, 10/100 Fast Ethernet network
 
 
