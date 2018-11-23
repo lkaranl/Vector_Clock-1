@@ -12,7 +12,7 @@ People use physical time to order events. For example, we say that an event at 8
 1. [What do you need to use this software?](#what-do-you-need-to-use-the-software?)
 1. [How to install it?](#how-to-install)
 1. [Possibles errors.](#possibles-errors)
-1. [How to use it?](#how-to-use)
+1. [How to use it](#how-to-use)
 
 
 </head>
