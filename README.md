@@ -6,11 +6,11 @@ People use physical time to order events. For example, we say that an event at 8
 
 ![animacao](https://user-images.githubusercontent.com/32453979/47199699-d9c90e00-d340-11e8-94b7-6b609d44561e.gif)
 
-1. [What are the Possible Applications?](#what-are-the-possible-applications)
+1. [What are the Possible Applications?](#What-are-the-Possible-Applications)
 1. [Methodology](#methodology)
 1. [Prerequisites](#prerequisites)
 1. [What do you need to use this software?](#What-do-you-need-to-use-this-software)
-1. [How to install it?](#how-to-install)
+1. [How to install it?](#how-to-install-it)
 1. [Possibles errors](#possibles-errors)
 1. [How to use it?](#How-to-use-it)
 
