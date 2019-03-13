@@ -220,13 +220,13 @@ First you will download the package and later install it.
 Once the installations are finished you can delete the downloaded .deb files.
 
 
-1 . INSTALL PYTHON IDLE<br/>
+* 1. INSTALL PYTHON IDLE<br/>
 `$sudo apt install idle-python2.7`<br/>
 
-2 . INSTALE PIP<br/>
+* 2. INSTALE PIP<br/>
 `$sudo apt install python-pip`<br/>
 
-3 . INSTALL DATEUTIL (PIP)<br/>
+3. INSTALL DATEUTIL (PIP)<br/>
 `$sudo pip install python-dateutil`<br/>
 
 4 . INSTALL NETIFACES (PIP)<br/>
