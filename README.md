@@ -40,12 +40,13 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 
 
 # What do you need to use this software?
-* You will need a GNU/Linux Ubuntu 18.04.1 cosmic or Debian 9.5 Stretch 
+* You will need a GNU/Linux Ubuntu 18.04.1 cosmic ; Debian 9.5 Stretch or Arch Linux x86_64.
 * Internet connection for download.
 
-Probably the software will also work on any other Debian-based distribution, but it has only been tested on the systems listed above.
+Probably the software will also work on any other Debian-based or Arch Linux-base distribution, but it has only been tested on the systems listed above.
 
-* For x86_64<br/>
+
+* For x86_64 debian-based distributions<br/> 
 These are the necessary packages and modules.
 The version may not necessarily be the same, but these versions have been tested and confirmed the operation.
 
@@ -90,7 +91,7 @@ Package: python-wxgtk2.8<br/>
 Version: 2.8.12.1-12<br/>
 ***********************************************************************************************
 
-* For x86<br/>
+* For x86 debian-based distributions.<br/> 
 The version may not necessarily be the same, but these versions have been tested and confirmed the operation.
 
 * 1. PYTHON IDLE <br/>
@@ -150,6 +151,44 @@ Package: libwxgtk-media2.8-0<br/>
 Version: 2.8.12.1+dfsg2-2ubuntu2+1-webupd8-xenial0<br/>
 
 ***********************************************************************************************
+
+* For x86_64 Arch Linux-based distributions.<br/> 
+Before starting with Arch, it is important that the installation of some libraries and packages required the use of community sources (AUR), which are similar to PPA utilities in ubuntu. Why the package has to be compiled in the machine, which ends up requiring a more time than in the distributions without Debian.<br/> 
+
+* 1. GSTREAMER0.10<br/> 
+Package: gstreamer0.10<br/> 
+Version: 0.10.36-17<br/> 
+
+* 2. GSTREAMER0.10-BASE<br/> 
+Package: gstreamer0.10-base<br/> 
+Version: 0.10.36-11<br/> 
+
+* 3. wxgtk2.8<br/> 
+Package: wxgtk2.8<br/> 
+Version: 2.8.12.1-6<br/> 
+
+* 4. WXPYTHON-GTK2<br/> 
+Package: wxpython-gtk2<br/> 
+Version: 	3.0.2.0-6<br/>
+
+* 5. WXPYTHON2.8<br/> 
+Package: wxpython2.8<br/> 
+Version: 2.8.12.1-3<br/>
+
+* 6. PYTHON2-DATEUTIL<br/> 
+Package: python-dateutil<br/> 
+Version: 2.8.0-1<br/>
+
+* 7. PYTHON2-NETIFACES<br/> 
+Package: python-netifaces<br/> 
+Version: 0.10.9-1<br/>
+
+* 7. PYTHON2-IPADDR<br/> 
+Package: python-ipaddr <br/> 
+Version: 2.2.0-1<br/>
+
+
+***********************************************************************************************
 # How to install it?
 
 * For x86_64<br/>
@@ -173,6 +212,8 @@ Run the file<br/>
 
 ***********************************************************************************************
 * You can do an installation automatically by running the file 'INSTALL.sh'. But if you want to install manually just follow the steps below.
+
+* In Debian and Ubuntu.
 
 First you will download the package and later install it.
 
@@ -222,6 +263,22 @@ Once the installations are finished you can delete the downloaded .deb files.
 `$sudo dpkg -i python-wxgtk2.8_2.8.12.1-12_amd64.deb`<br/>
 
 ***********************************************************************************************
+* In Arch
+
+1 . INSTALL DATEUTIL <br/>
+`$sudo pacman -S python2-dateutil`<br/>
+
+2 . INSTALL NETIFACES <br/>
+`$sudo pacman -S python2-netifaces`<br/>
+
+3 . INSTALL IPADDR<br/>
+`$sudo pacman -S python2-ipaddr`<br/>
+
+
+***********************************************************************************************
+
+
+
 # Possibles errors
 
 * If any module for unknown reasons has not been installed
