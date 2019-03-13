@@ -40,7 +40,7 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 
 
 # What do you need to use this software?
-* You will need a GNU/Linux Ubuntu 18.04.1 cosmic ; Debian 9.5 Stretch or Arch Linux x86_64.
+* You will need a GNU/Linux Ubuntu 18.04.1 cosmic; Debian 9.5 Stretch or Arch Linux x86_64.
 * Internet connection for download.
 
 Probably the software will also work on any other Debian-based or Arch Linux-base distribution, but it has only been tested on the systems listed above.
