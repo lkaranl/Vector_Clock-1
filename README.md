@@ -267,57 +267,46 @@ Once the installations are finished you can delete the downloaded .deb files.
 
 1. DOWNLOAD GSTREAMER0.10<br/>
 `$wget https://aur.archlinux.org/cgit/aur.git/snapshot/gstreamer0.10.tar.gz`<br/>
-1.2 EXTRAIA O PACOTE<br/>
+1.2 EXTRACT THE PACKAGE<br/>
 `$tar -xvf gstreamer0.10.tar.gz`<br/>
 1.3 INSTALL<br/>
 `$makepkg -si`<br/>
 
 2. DOWNLOAD GSTREAMER0.10-BASE<br/>
 `$wget https://aur.archlinux.org/cgit/aur.git/snapshot/gstreamer0.10-base.tar.gz`<br/>
-2.2 EXTRAIA O PACOTE<br/>
+2.2 EXTRACT THE PACKAGE<br/>
 `$tar -xvf gstreamer0.10-base.tar.gz`<br/>
 2.3 INSTALL<br/>
 `$makepkg -si`<br/>
 
 3. DOWNLOAD WXGTK2.8<br/>
 `$wget https://aur.archlinux.org/cgit/aur.git/snapshot/wxgtk2.8.tar.gz`<br/>
-3.2 EXTRAIA O PACOTE<br/>
+3.2 EXTRACT THE PACKAGE<br/>
 `$tar -xvf wxgtk2.8.tar.gz`<br/>
 3.3 INSTALL<br/>
 `$makepkg -si`<br/>
 
 4. DOWNLOAD WXPYTHON-GTK2<br/>
 `$wget https://aur.archlinux.org/cgit/aur.git/snapshot/wxpython-gtk2.tar.gz`<br/>
-4.2 EXTRAIA O PACOTE<br/>
+4.2 EXTRACT THE PACKAGE<br/>
 `$tar -xvf wxpython-gtk2.tar.gz`<br/>
 4.3 INSTALL<br/>
 `$makepkg -si`<br/>
 
 5. DOWNLOAD WXPYTHON2.8<br/>
 `$wget https://aur.archlinux.org/cgit/aur.git/snapshot/wxpython-gtk2.tar.gz`<br/>
-6.2 EXTRAIA O PACOTE<br/>
+6.2 EXTRACT THE PACKAGE<br/>
 `$tar -xvf wxpython2.8.tar.gz`<br/>
 6.3 INSTALL<br/>
 `$makepkg -si`<br/>
 
-
-
-
-
-
-
-
-
-
-
-
-1 . INSTALL DATEUTIL <br/>
+7. INSTALL DATEUTIL <br/>
 `$sudo pacman -S python2-dateutil`<br/>
 
-2 . INSTALL NETIFACES <br/>
+8. INSTALL NETIFACES <br/>
 `$sudo pacman -S python2-netifaces`<br/>
 
-3 . INSTALL IPADDR<br/>
+9. INSTALL IPADDR<br/>
 `$sudo pacman -S python2-ipaddr`<br/>
 
 
