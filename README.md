@@ -342,6 +342,8 @@ root ALL=(ALL:ALL) ALL<br/>
 Obs: In some cases Debian, when new, in the updates configuration file "/etc/apt/sources.list", the line referring to the cdrom is not commented out, this causes an error at the time of the update and consequently when installing some programs and libraries with apt.
 It is advisable to comment on any lines referring to the use of "cdrom" sources, and it is strongly recommended to use official Debian sources, both "debian" and "security".
 
+![animation](https://github.com/dioxfile/Vector_Clock/raw/master/Imagens/gif-animada.gif)
+
 ***********************************************************************************************
 
 # How to use it?
