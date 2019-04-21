@@ -7,10 +7,6 @@ People use physical time to order events. For example, we say that an event at 8
 
 ![animacao](https://user-images.githubusercontent.com/32453979/47199699-d9c90e00-d340-11e8-94b7-6b609d44561e.gif)
 
-![alt text](file:///run/media/karan/HDD/Compartilhada/Clocks/QRCode_Vector_clock.png)
-
-
-
 
 1. [What are the Possible Applications?](#What-are-the-Possible-Applications)
 1. [Methodology](#methodology)
