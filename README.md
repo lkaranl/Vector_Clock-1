@@ -21,7 +21,7 @@ People use physical time to order events. For example, we say that an event at 8
 Its purpose is the synchronization of logical clocks of computers connected to the same network.
 
 ## Methodology.
-* OS: Ubuntu 18.10 cosmic
+* OS: Ubuntu 18.04 cosmic
 * Kernel: x86_64 Linux 4.18.0-10-generic
 * CPU: Intel Core i7 Q 740 @ 8x 1.734GHz
 * GPU: GeForce GT 425M
@@ -191,7 +191,7 @@ Version: 2.2.0-1<br/>
 ***********************************************************************************************
 # How to install it?
 
-* For x86_64<br/>
+* For x86_64 and 86x<br/>
 Give permission to file INSTALL.sh<br/>
 `$sudo chmod +x INSTALL.sh`
 
@@ -199,16 +199,6 @@ Obs: For the above command to work the terminal must be open where the file is l
 
 Run the file<br/>
 `$sudo ./INSTALL.sh`
-
-***********************************************************************************************
-* For 86x<br/>
-Give permission to file INSTALL.sh<br/>
-`$sudo chmod +x INSTALL-32.sh`
-
-Obs: For the above command to work the terminal must be open where the file is located.<br/>
-
-Run the file<br/>
-`$sudo ./INSTALL-32.sh`
 
 ***********************************************************************************************
 * You can do an installation automatically by running the file 'INSTALL.sh'. But if you want to install manually just follow the steps below.
