@@ -8,7 +8,7 @@
 #####	E-MAIL:				karanluciano1@gmail.com			
 #####	DISTRO:				Manjaro Linux
 #####	LICENSE:			GPLv3 			
-#####	PROJECT:			https://github.com/lkaranl/Vector_Clock
+#####	PROJECT:			https://github.com/dioxfile/Vector_Clock
 
 #Check architecture
 _arch=$(uname -m)
