@@ -2,8 +2,8 @@
 
 #####	NAME:				INSTALL
 #####	VERSION:			1.0
-#####	DESCRIPTION:		Install libraries and dependencies 			
-#####	DATE OF CREATION:	18/04/2019
+#####	DESCRIPTION:			Install libraries and dependencies 			
+#####	DATE OF CREATION:		18/04/2019
 #####	WRITTEN BY:			Karan Luciano Silva
 #####	E-MAIL:				karanluciano1@gmail.com			
 #####	DISTRO:				Manjaro Linux
