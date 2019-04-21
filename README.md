@@ -335,6 +335,10 @@ root ALL=(ALL:ALL) ALL<br/>
 #The top line was the one we added. <br/>
 #Replace 'yoursername' with the name of your user who wants to have root permission<br/>
 `#exit`
+
+Obs: In some cases Debian, when new, in the updates configuration file "/etc/apt/sources.list", the line referring to the cdrom is not commented out, this causes an error at the time of the update and consequently when installing some programs and libraries with apt.
+It is advisable to comment on any lines referring to the use of "cdrom" sources, and it is strongly recommended to use official Debian sources, both "debian" and "security".
+
 ***********************************************************************************************
 
 # How to use it?
