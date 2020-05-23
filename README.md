@@ -30,13 +30,27 @@ Its purpose is the synchronization of logical clocks of computers connected to t
 * __Test hardware:__ Intel (R) Pentium 4 (TM) 3.0 GHz, 1 GB RAM, HD 40 GB, 10/100 Fast Ethernet network
 * __Test realize:__ The tests were performed in a _testbed_ with 8 computers in the _Laboratory of Computer Networks (UNEMAT)_, and all the computers of the laboratory were configured in a network class A 113.167.9.0/24 . In order to synchronize, the software takes into account the time correct at the highest hour. In this way, the clocks of the test machines were manually and randomly delayed.
 
-# Prerequisites
-* Pyhton2.7
-* Idle-Python2.7
-* Python-Dateutil
-* Python-Netifaces
-* Python-Ipaddr
-* Python-WXgtk2.8
+# Prerequisites<br/>
+## Hardware (Desktop)<br/>  
+* MÍNIMO: Processador a 500 MHz, 96 MB de RAM, placa gráfica 16 MB<br/>
+* RECOMENDADO: Processador a 800 MHz, 128 MB de RAM, placa gráfica 32 MB
+
+## Softaware<br/>
+### Linux<br/>
+Minimum: OS X Snow Leopard 10.6.3, 1GB RAM, 4GB Hard Drive Space,NVIDIA GeForce 8 ou higher, ATI X1600 ou higher, ou Intel<br/> HD 3000, ligação à Internet
+
+### Windows<br/>
+* MÍNIMO: Windows 7, ligação à Internet <br/>
+* RECOMENDADO: Windows 10, ligação à Internet <br/>
+
+### Android (mobile)<br/>
+* Tablet ou Mini-PC com Android 4.2.2 ou superior, processador 1.5GHz QuadCore ou superior<br/>
+* 2GB de memória RAM<br/>
+• 8GB de espaço livre.
+
+
+
+
 
 
 # What do you need to use this software?
